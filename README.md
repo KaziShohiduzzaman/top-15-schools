@@ -1,6 +1,6 @@
 # Top 15 Schools in Bangladesh
 
-This project was bootstrapped with [Create React App](https://top-school-bd.netlify.app/).
+This project was bootstrapped and plain CSS with [Create React App](https://top-school-bd.netlify.app/).
 
 ## Available Scripts
 
