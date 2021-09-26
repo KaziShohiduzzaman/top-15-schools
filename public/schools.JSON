@@ -1,0 +1,136 @@
+[
+    {
+        "key": 1,
+        "name": "Viqarunnisa Noon School and College",
+        "established": 1952,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Viqarunnisa_Noon_School_and_College%2C_Main_Campus%2C_Bailey_Road%2C_Dhaka.jpg/800px-Viqarunnisa_Noon_School_and_College%2C_Main_Campus%2C_Bailey_Road%2C_Dhaka.jpg",
+        "location": "1/A, New Baily Road, Dhaka-1000",
+        "amountOfStudents": 25000,
+        "rating": 4
+    },
+    {
+        "key": 2,
+        "name": "Government Laboratory High School",
+        "established": 1961,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Glhs06.jpg",
+        "location": "1 Naem Road, Dhanmondi New market Dhaka 1205 Bangladesh",
+        "amountOfStudents": 4625,
+        "rating": 3
+    },
+    {
+        "key": 3,
+        "name": "Ideal School and College",
+        "established": 1965,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Iscgate.jpg",
+        "location": "Motijheel",
+        "amountOfStudents": 18000,
+        "rating": 4
+    },
+    {
+        "key": 4,
+        "name": "RAJUK Uttara Model College",
+        "established": 1994,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Iscgate.jpg",
+        "location": "Uttara, Dhaka 1230",
+        "amountOfStudents": 4893,
+        "rating": 5
+    },
+    {
+        "key": 5,
+        "name": "Dhaka Residential Model College",
+        "established": 1960,
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Logo_of_DRMC.png",
+        "location": "Mirpur Road, Mohammadpur Dhaka",
+        "amountOfStudents": 5244,
+        "rating": 3
+    },
+    {
+        "key": 6,
+        "name": "Holy Cross Girls High School (Dhaka)",
+        "established": 1951,
+        "image": "https://pbs.twimg.com/profile_images/1376342499/holy_cross_emblem_400x400.jpg",
+        "location": "Tejgaon, Dhaka",
+        "amountOfStudents": 1800,
+        "rating": 4
+    },
+    {
+        "key": 7,
+        "name": "Bir Shreshtha Noor Mohammad Public College",
+        "established": 1977,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/%E0%A6%AC%E0%A7%80%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%A8%E0%A7%82%E0%A6%B0_%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A7%A7%E0%A7%AF%E0%A7%AD%E0%A7%AD-%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%A9%29_2013-10-03_22-32.jpg/220px-thumbnail.jpg",
+        "location": "Peelkhana (near Gate # 5 of BGB Headquarters)Dhaka, 1205",
+        "amountOfStudents": 2200,
+        "rating": 3.5
+    },
+    {
+        "key": 8,
+        "name": "Chittagong Collegiate School and College",
+        "established": 1836,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chittagong_Collegiate_School_Gate.JPG/220px-Chittagong_Collegiate_School_Gate.JPG",
+        "location": "Ice Factory Road Chittagong, Bangladesh-4200",
+        "amountOfStudents": 300,
+        "rating": 2
+    },
+    {
+        "key": 9,
+        "name": "St. Joseph Higher Secondary School",
+        "established": 1954,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Logo_of_St._Joseph_Higher_Secondary_School.png",
+        "location": "97 Asad Avenue, Mohammadpur, Dhaka - 1207, Bangladesh",
+        "amountOfStudents": 2500,
+        "rating": 4
+    },
+    {
+        "key": 10,
+        "name": "St Gregorys High School",
+        "established": 1882,
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/St_Gregory%27s_High_School_logo.jpeg",
+        "location": "82 Municipal Office Street, Luxmibazar,Dhaka, Bangladesh",
+        "amountOfStudents": 3500,
+        "rating": 4
+    },
+    {
+        "key": 11,
+        "name": "Dhanmondi Government Boys High School",
+        "established": 1965,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DGBHS_Logo_English.jpg/220px-DGBHS_Logo_English.jpg",
+        "location": "Mirpur Road Dhaka Bangladesh",
+        "amountOfStudents": 2500,
+        "rating": 5
+    },
+    {
+        "key": 12,
+        "name": "Comilla Zilla School",
+        "established": 1837,
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Comilla_Zilla_School.jpg",
+        "location": "Kandirpar, Comilla Bangladesh",
+        "amountOfStudents": 2000,
+        "rating": 4.5
+    },
+    {
+        "key": 13,
+        "name": "Monipur High School and College",
+        "established": 1969,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MHSC_LOGO.png/200px-MHSC_LOGO.png",
+        "location": "Mirpur, Dhaka",
+        "amountOfStudents": 1516,
+        "rating": 4
+    },
+    {
+        "key": 14,
+        "name": "Blue Bird High School and College",
+        "established": 1961,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROaqZNdmZAVyIE9mne57Pd6tdIo6xny6Ruxg&usqp=CAU",
+        "location": "Sylhet,Bangladesh",
+        "amountOfStudents": 2006,
+        "rating": 2
+    },
+    {
+        "key": 15,
+        "name": "Sylhet Government Pilot High School",
+        "established": 1836,
+        "image": "https://yt3.ggpht.com/ytc/AKedOLTNtLKC3Luad5kD3oTIrMCmktgApqGVC7D7Wjas=s900-c-k-c0x00ffffff-no-rj",
+        "amountOfStudents": 2500,
+        "rating": 4
+    }
+]
